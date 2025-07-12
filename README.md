@@ -2,7 +2,7 @@
 
 **Full Stack Web Developer**  
 Seattle, WA | 📞 (360) 395 0813 | 📧 jjmowd@gmail.com  
-[GitHub](https://github.com/tuusuario) • [LinkedIn](https://linkedin.com/in/tuusuario)
+[GitHub](https://github.com/jesusmedero) • [LinkedIn](http://www.linkedin.com/in/jesus-medero)
 
 ---
 
