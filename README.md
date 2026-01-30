@@ -1,81 +1,124 @@
-# 👋 Hi, I'm Jesús Medero
+# 👋 Hi, I'm Jesus Medero
 
-**Full Stack Web Developer**  
-Seattle, WA | 📞 (360) 395 0813 | 📧 jjmowd@gmail.com  
-[GitHub](https://github.com/jesusmedero) • [LinkedIn](http://www.linkedin.com/in/jesus-medero)
-
----
-
-## 🛠️ Technical Skills
-
-**Front End:** JavaScript, HTML, CSS, VS Code, React.js, Jest, Yup, Axios  
-**Back End:** GitHub, Express, Node.js, SQL, Heroku  
-**Additional Tools:** Vercel, Sqlite3, Knex
+Full Stack Web Developer with a strong background in business operations, branding, and data-driven applications.  
+I enjoy building scalable web solutions that combine clean UI, real-world data, and meaningful user experiences.
 
 ---
 
-## 💻 Projects
+## 🚀 Tech Stack
 
-### 📚 Advanced Web Applications (React)  
-**Role:** Full Stack Developer  
-- Enabled full CRUD functionality for articles via component edits.  
-- Implemented token-based authentication for user credential validation.  
-[🔗 View on GitHub](https://github.com/jesusmedero/web-sprint-challenge-advanced-web-applications)
+### Front End
+- JavaScript
+- HTML5 / CSS3
+- React.js
+- Next.js
+- Tailwind CSS
+- Axios
+- Jest
+- Yup
 
----
+### Back End
+- Node.js
+- Express
+- SQL
+- Knex
+- SQLite3
 
-### 🍕 Pizza Ordering App (React | Redux)  
-**Role:** Full Stack Developer  
-- Optimized pizza ordering forms and live order rendering.  
-- Used Redux for state management and API integration.  
-[🔗 View on GitHub](https://github.com/jesusmedero/W_S10_Challenge)
-
----
-
-### 🍣 Mirakutei Sushi Website (Webflow)  
-**Role:** Web Designer  
-- Customized Webflow template to match brand identity.  
-- Tested responsiveness across devices and browsers.  
-[🌐 View Website](https://www.mirakuteiclackamas.com/)
-
----
-
-### 💨 E-Cig Masters Wholesale Website  
-**Role:** Web Content  
-- Collected and prepared product images for upload.  
-- Enhanced e-commerce experience through visual optimization.  
-[🌐 View Website](https://www.ecigmasters.com)
+### Tools & Platforms
+- GitHub
+- Vercel
+- Heroku
+- REST APIs
+- Auth0
+- VS Code
 
 ---
 
-## 🧠 Experience
+## 💻 Featured Projects
 
-### 🎨 BM Uniformes y Publicidad, Mexico — *Graphic Designer*  
-**2009 – 2016**  
-- Created banners, flyers, and business cards for SMBs.  
-- Delivered visually modern, customer-focused materials.  
-- Maintained strong client relationships and satisfaction.
+### 📊 Asylum Office Grant Rate Tracker  
+**Full Stack Developer — Labs Project**  
+*React · Next.js · Tailwind CSS · REST APIs · Auth0*
+
+- Built a full-stack data visualization platform displaying U.S. asylum office grant-rate statistics.
+- Developed reusable React components with responsive layouts using Tailwind CSS.
+- Integrated external REST APIs to process and display real-world data dynamically.
+- Implemented secure authentication and protected routes using Auth0.
+- Migrated the application from React + Vite to Next.js to improve routing and deployment structure.
+- Deployed the application using modern hosting platforms with secure environment variable management.
 
 ---
 
-### 🌐 The Kite Rises (Remote) — *Digital Marketing / Web Developer*  
-**2020 – 2023**  
-- Secured and managed the agency’s first clients.  
-- Built responsive websites (Webflow, Wix, WordPress).  
-- Improved SEO and user engagement through tailored strategies.  
-- Contributed to the agency’s growth and evolving services.
+### 🍕 Pizza Ordering App  
+*React · Redux*
+
+- Developed dynamic pizza ordering forms with real-time UI updates.
+- Implemented Redux for centralized state management and API integration.
+- Ensured smooth user interactions and consistent rendering.
+
+---
+
+### 🍣 Mirakutei Sushi Website  
+*Webflow*
+
+- Designed and customized a responsive restaurant website based on brand identity.
+- Performed cross-device testing for layout and performance consistency.
+
+---
+
+### 🔍 The Kite Rises — SEO Optimization Project  
+*Technical SEO · Google Search Console · Keyword Research*
+
+- Updated and submitted XML sitemap via Google Search Console.
+- Conducted keyword research aligned with business goals.
+- Implemented optimized meta titles and meta descriptions.
+- Improved heading hierarchy (H1 / H2 / H3) for better semantic structure.
+- Prepared core pages for indexing, tracking, and performance monitoring.
+
+---
+
+## 🧠 Professional Background
+
+### BM Publicidad — Brand & Digital Operations Manager  
+*Mexico | 2009 – 2016*
+
+- Led the development of the company’s brand identity system and visual guidelines.
+- Designed advertising materials including signage, banners, uniforms, and print media.
+- Implemented and configured a CRM system for customer data and order tracking.
+- Organized business data to support workflow optimization and operational control.
+- Maintained long-term client relationships through clear communication and reliable delivery.
+
+---
+
+### The Kite Rises — Digital Marketing / Web Developer  
+*Remote | 2020 – Present*
+
+- Managed early marketing campaigns including Google Ads and social media.
+- Built responsive websites using Webflow, Wix, and WordPress.
+- Implemented SEO strategies to improve organic traffic and visibility.
+- Supported agency growth by adapting services to evolving client needs.
 
 ---
 
 ## 🎓 Education
 
-**Full Stack Web Development Program** – *BloomTech*  
-🗓️ 2024 – Present
+**BloomTech — Full Stack Web Development Program**  
+2024 – 2026  
 
-**Renewable Energy Engineering** – *Instituto Tecnológico Superior de Tequila (Mexico)*  
-🗓️ 2014 – 2016
+**Instituto Tecnológico Superior de Tequila (Mexico)**  
+Renewable Energy Engineering (2014 – 2016)
 
 ---
 
-📬 Feel free to reach out if you'd like to collaborate or have a project in mind!
+## 📫 Let's Connect
+
+- 📍 Seattle, WA
+- 📱 Phone: 360-395-0813  
+- 📧 Email: jjmowd@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/jesus-medero/
+- 💻 GitHub: https://github.com/jesusmedero 
+
+---
+
+⭐ Thanks for visiting my profile!
 
