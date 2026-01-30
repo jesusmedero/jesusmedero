@@ -36,7 +36,7 @@ I enjoy building scalable web solutions that combine clean UI, real-world data, 
 
 ## 💻 Featured Projects
 
-### 📊 Asylum Office Grant Rate Tracker  
+### 📊 Asylum Office Grant Rate Tracker (https://github.com/jesusmedero/asylum-hrf-fe-starter)  
 **Full Stack Developer — Labs Project**  
 *React · Next.js · Tailwind CSS · REST APIs · Auth0*
 
@@ -49,7 +49,7 @@ I enjoy building scalable web solutions that combine clean UI, real-world data, 
 
 ---
 
-### 🍕 Pizza Ordering App  
+### 🍕 Pizza Ordering App (https://github.com/jesusmedero/W_S10_Challenge)  
 *React · Redux*
 
 - Developed dynamic pizza ordering forms with real-time UI updates.
@@ -58,7 +58,7 @@ I enjoy building scalable web solutions that combine clean UI, real-world data, 
 
 ---
 
-### 🍣 Mirakutei Sushi Website  
+### 🍣 Mirakutei Sushi Website (https://www.mirakuteiclackamas.com/) 
 *Webflow*
 
 - Designed and customized a responsive restaurant website based on brand identity.
@@ -66,7 +66,7 @@ I enjoy building scalable web solutions that combine clean UI, real-world data, 
 
 ---
 
-### 🔍 The Kite Rises — SEO Optimization Project  
+### 🔍 The Kite Rises — SEO Optimization Project (https://thekiterises.com/) 
 *Technical SEO · Google Search Console · Keyword Research*
 
 - Updated and submitted XML sitemap via Google Search Console.
