@@ -17,14 +17,15 @@ Based in the Seattle, Washington area and interested in opportunities to grow wi
 ## 💻 Selected Projects
 
 ### 📱 Pelines Admin — Restaurant Management Application
-*Flutter · Dart · Riverpod · AI-Assisted Development*
+*Flutter · Dart · Riverpod · REST APIs · Supabase Auth · AI-Assisted Development*
 
-Cross-platform administrative application supporting restaurant operations including orders, menus, categories, scheduling, and management workflows.
+Cross-platform administrative application for restaurant operations, including orders, menus, categories, scheduling, and staff workflows.
 
-- Planned features and UX/UI workflows with attention to consistent responsive layouts.
-- Coordinated and reviewed implementation produced with Codex, validating functionality and automated tests.
-- Supported Android and iOS release workflows. **The app was approved by Apple and released on iOS in November 2026.**
-- Continue to provide maintenance and support following the initial release.
+- Defined features and responsive UX/UI workflows for mobile and desktop.
+- Coordinated and reviewed Codex-assisted implementation, including frontend integration with REST APIs and Supabase authentication (JWT) for administrative access.
+- Validated backend connectivity across staging and production environments, investigated API and authentication issues, and reviewed automated tests.
+- Collaborated with the backend developer while preserving existing API contracts and supported Android/iOS builds, TestFlight, and the **iOS App Store release in November 2026**.
+- Continue to support application maintenance following launch.
 
 *Private client application. Source code and administrative access are not public.*
 
